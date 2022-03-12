@@ -8,5 +8,5 @@ The purpose of this analysis was to provide a more in-depth analysis of UFO sigh
 
 ## Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
 
-* The summary addresses one drawback of this webpage 
-* The summary addresses two additional recommendations for further development 
+* One drawback of this webpage is if the user does not clear all fields then the search might not provide any results. For example, if a user was looking for UFO sightings in Indiana but never cleared the "shape" field of "circle" then no results would show up when in fact Indiana does have 1 UFO sighting.
+* Two additional recommendations for further development would be scrapping from a website with real time data and up to date data. An addtional 
