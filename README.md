@@ -42,7 +42,7 @@ The purpose of this analysis was to provide a more in-depth analysis of UFO sigh
 ![instate](https://user-images.githubusercontent.com/93004710/158070200-92492f1a-9d10-41b3-b65f-70204db2cd64.png)
 
 
-* Two additional recommendations for further development would be scrapping from a website with real time data and up to date data for more possible search results. An addtional recommendation would be making the filters not case sensitive, if you put "IN" instead of "in" no rrsults will show up. Making the filters non case sensitive could help users have an overall better experience with less hassle from the table.
+* Two additional recommendations for further development would be scrapping from a website with real time data and up to date data for more possible search results. An addtional recommendation would be making the filters not case sensitive, if you put "IN" instead of "in" no results will show up. Making the filters non case sensitive could help users have an overall better experience with less hassle from the table.
 
 
 
